@@ -98,7 +98,6 @@ Users were categorized into three groups based on average daily steps:
 - **Distance Validation:** Calculated difference between total and tracker distance
 
 ### 3. Exploratory Data Analysis
-- Descriptive statistics and distribution analysis
 - Correlation analysis between activity metrics
 - Time series patterns across days of the week
 - Group-level comparisons by activity level
@@ -147,26 +146,6 @@ Comprehensive view showing how different intensity levels correlate with calorie
 3. Break up sedentary time with light activity
 4. Plan active Sunday routines to maintain weekly momentum
 
-## 🚀 Installation & Usage
-
-### Prerequisites
-```bash
-Python 3.7+
-Jupyter Notebook or JupyterLab
-```
-
-### Setup
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/fitbit-analysis.git
-cd fitbit-analysis
-
-# Install required packages
-pip install numpy pandas matplotlib seaborn
-
-# Launch Jupyter Notebook
-jupyter notebook fitbit_analysis.ipynb
-```
 
 ### Running the Analysis
 1. Ensure the dataset is in the correct path: `/kaggle/input/fitbit/`
@@ -193,6 +172,8 @@ jupyter notebook fitbit_analysis.ipynb
 - Cohort analysis for user retention
 - A/B test framework for intervention effectiveness
 
+-- Further analysis to consider in future applications
+
 ## 📝 Project Structure
 
 ```
@@ -218,10 +199,10 @@ fitbit-analysis/
 ## 📧 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- GitHub: [@SundipDataAnalysis](https://github.com/SundipDataAnalysis)
+- LinkedIn:[ https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sundip-sharma-837515123/)
+- Email: sundipsharma@hotmail.co.uk
+- Portfolio:
 
 ## 📄 License
 
@@ -230,11 +211,5 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Dataset provided by [Kaggle Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit)
-- Original data collected via Amazon Mechanical Turk survey
-- Inspiration from health analytics and wearable technology communities
 
----
 
-**⭐ If you found this project useful, please consider giving it a star!**
-
-*Last Updated: October 2025*
