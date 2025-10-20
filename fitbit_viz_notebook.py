@@ -1,7 +1,4 @@
 # Fitbit Activity Data Analysis
-# Author: Your Name
-# Date: October 2025
-# Portfolio Project: Understanding User Activity Patterns and Health Metrics
 
 import numpy as np 
 import pandas as pd 
